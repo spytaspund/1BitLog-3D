@@ -1,7 +1,3 @@
-# [[Скачать]](https://github.com/IBit-mc-server/ResourcePack/releases/tag/Новейшая-версия-ресурспака) [Актуальная версия] v4.9.1 [Больше 3D!]
-
-![Кристнаблинзасунуламайнкрафтвстакан](https://github.com/IBit-mc-server/ResourcePack/assets/98075804/481a98b7-c53b-4ebf-97bd-77444e2011e7)
-
-
- 3D: [@spytaspund](https://github.com/spytaspund)
- Оформление и текст: [@dakzekin](https://github.com/dakzekin)
+# 1BitLog-3D
+Текстур-пак для сервера minecraft 1BitLog3D за моим авторством.
+![image](https://github.com/spytaspund/1BitLog-3D/assets/109822062/da95f42b-a420-457d-b26a-ce6f3749cf0b)
