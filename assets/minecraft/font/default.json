@@ -26,6 +26,15 @@
 				"chars": [
 					"\u0195"
 			]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:gui/coal-generator/generator.png",
+				"ascent":13,
+				"height":165,
+				"chars":[
+					"\u0D3F"
+				]
 		}
 	]
 }
