@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "90200299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/cpu/2460v10"
+        }
+      },
+      {
+        "when": "another_string_id",
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/another_custom_model"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

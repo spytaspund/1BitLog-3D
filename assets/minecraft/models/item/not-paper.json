@@ -4,19 +4,19 @@
     "layer0": "minecraft:item/paper"
   },
   "overrides": [
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100199 } }, "model": "custom/motherboard/900fx-ultra" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100299 } }, "model": "custom/motherboard/huan-x80" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100399 } }, "model": "custom/motherboard/b680-aryc" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100499 } }, "model": "custom/motherboard/b700-pro" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100599 } }, "model": "custom/motherboard/x730e-point" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90100699 } }, "model": "custom/motherboard/higs-z808" },
+    { "predicate": { "custom_model_data": 90100199 }, "model": "custom/motherboard/900fx-ultra" },
+    { "predicate": { "custom_model_data": 90100299 }, "model": "custom/motherboard/huan-x80" },
+    { "predicate": { "custom_model_data": 90100399 }, "model": "custom/motherboard/b680-aryc" },
+    { "predicate": { "custom_model_data": 90100499 }, "model": "custom/motherboard/b700-pro" },
+    { "predicate": { "custom_model_data": 90100599 }, "model": "custom/motherboard/x730e-point" },
+    { "predicate": { "custom_model_data": 90100699 }, "model": "custom/motherboard/higs-z808" },
 
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200199 } }, "model": "custom/cpu/8240-box" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200299 } }, "model": "custom/cpu/2460v10" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200399 } }, "model": "custom/cpu/4800" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200499 } }, "model": "custom/cpu/8300" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200599 } }, "model": "custom/cpu/6840-box" },
-    { "predicate": { "minecraft:custom_model_data": { "value": 90200699 } }, "model": "custom/cpu/8700" }
+    { "predicate": { "custom_model_data": 90200199 }, "model": "custom/cpu/8240-box" },
+    { "predicate": { "custom_model_data": 90200299 }, "model": "custom/cpu/2460v10" },
+    { "predicate": { "custom_model_data": 90200399 }, "model": "custom/cpu/4800" },
+    { "predicate": { "custom_model_data": 90200499 }, "model": "custom/cpu/8300" },
+    { "predicate": { "custom_model_data": 90200599 }, "model": "custom/cpu/6840-box" },
+    { "predicate": { "custom_model_data": 90200699 }, "model": "custom/cpu/8700" },
 
     { "predicate": { "custom_model_data": 90300199 }, "model": "custom/ram/critical-ddr3" },
     { "predicate": { "custom_model_data": 90300299 }, "model": "custom/ram/cskill-ddr3" },
