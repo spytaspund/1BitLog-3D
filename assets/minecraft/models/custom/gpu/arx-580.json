@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./arx-580/main-texture",
-		"particle": "./arx-580/main-texture"
+		"0": "minecraft:item/custom/gpu/arx-580/main-texture",
+		"particle": "minecraft:item/custom/gpu/arx-580/main-texture"
 	},
 	"elements": [
 		{

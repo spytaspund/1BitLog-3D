@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "custom/cpu/ryazan-4800/pcb-texture",
-		"1": "custom/cpu/ryazan-4800/coolingbox-texture",
-		"particle": "custom/cpu/ryazan-4800/pcb-texture"
+		"0": "minecraft:item/custom/cpu/ryazan-4800/pcb-texture",
+		"1": "minecraft:item/custom/cpu/ryazan-4800/coolingbox-texture",
+		"particle": "minecraft:item/custom/cpu/ryazan-4800/pcb-texture"
 	},
 	"elements": [
 		{

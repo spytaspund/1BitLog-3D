@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"3": "./caper-ddr4/pcb-texture",
-		"4": "./caper-ddr4/coolingbox-texture",
-		"5": "./caper-ddr4/coolingbox-texture-2"
+		"3": "minecraft:item/custom/ram/caper-ddr4/pcb-texture",
+		"4": "minecraft:item/custom/ram/caper-ddr4/coolingbox-texture",
+		"5": "minecraft:item/custom/ram/caper-ddr4/coolingbox-texture-2"
 	},
 	"elements": [
 		{

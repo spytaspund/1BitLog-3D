@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./green-cube-a6900/main-texture",
-		"particle": "./green-cube-a6900/main-texture"
+		"0": "minecraft:item/custom/gpu/green-cube-a6900/main-texture",
+		"particle": "minecraft:item/custom/gpu/green-cube-a6900/main-texture"
 	},
 	"elements": [
 		{

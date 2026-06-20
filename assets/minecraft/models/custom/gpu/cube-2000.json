@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./cube-2000/main-texture",
-		"particle": "./cube-2000/main-texture"
+		"0": "minecraft:item/custom/gpu/cube-2000/main-texture",
+		"particle": "minecraft:item/custom/gpu/cube-2000/main-texture"
 	},
 	"elements": [
 		{

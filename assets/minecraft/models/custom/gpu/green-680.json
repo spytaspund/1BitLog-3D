@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./green-680/main-texture",
-		"particle": "./green-680/main-texture"
+		"0": "minecraft:item/custom/gpu/green-680/main-texture",
+		"particle": "minecraft:item/custom/gpu/green-680/main-texture"
 	},
 	"elements": [
 		{

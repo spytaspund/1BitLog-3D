@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./green-1660-max/main-texture",
-		"particle": "./green-1660-max/main-texture"
+		"0": "minecraft:item/custom/gpu/green-1660-max/main-texture",
+		"particle": "minecraft:item/custom/gpu/green-1660-max/main-texture"
 	},
 	"elements": [
 		{

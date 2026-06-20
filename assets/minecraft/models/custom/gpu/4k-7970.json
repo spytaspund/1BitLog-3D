@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./4k-7970/main-texture",
-		"particle": "./4k-7970/main-texture"
+		"0": "minecraft:item/custom/gpu/4k-7970/main-texture",
+		"particle": "minecraft:item/custom/gpu/4k-7970/main-texture"
 	},
 	"elements": [
 		{

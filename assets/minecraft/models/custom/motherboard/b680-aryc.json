@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./b680-aryc/main-texture",
-		"particle": "./b680-aryc/main-texture"
+		"0": "minecraft:item/custom/motherboard/b680-aryc/main-texture",
+		"particle": "minecraft:item/custom/motherboard/b680-aryc/main-texture"
 	},
 	"elements": [
 		{

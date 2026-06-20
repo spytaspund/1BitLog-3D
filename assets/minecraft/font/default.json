@@ -2,7 +2,7 @@
 	"providers": [
 		{
 			"type": "bitmap",
-			"file": "minecraft:custom/gui/1bitlog.png",
+			"file": "minecraft:item/custom/gui/1bitlog.png",
 				"ascent": 8,
 				"height": 9,
 				"chars": [

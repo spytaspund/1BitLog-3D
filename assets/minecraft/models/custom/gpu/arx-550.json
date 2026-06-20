@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "./arx-550/main-texture",
-		"particle": "./arx-550/main-texture"
+		"0": "minecraft:item/custom/gpu/arx-550/main-texture",
+		"particle": "minecraft:item/custom/gpu/arx-550/main-texture"
 	},
 	"elements": [
 		{
