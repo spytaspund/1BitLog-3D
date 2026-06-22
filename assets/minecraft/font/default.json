@@ -17,6 +17,15 @@
 				"chars":[
 					"\u0D3F"
 				]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:gui/mining-stand/mining-stand.png",
+				"ascent":13,
+				"height":222,
+				"chars":[
+					"\u0D40"
+				]
 		}
 	]
 }
