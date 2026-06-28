@@ -4,6 +4,84 @@
     "property": "minecraft:custom_model_data",
     "cases": [
       {
+        "when": "100100199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/cpu"
+        }
+      },
+      {
+        "when": "100100299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/gpu"
+        }
+      },
+      {
+        "when": "100100399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/storage"
+        }
+      },
+      {
+        "when": "100100499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/motherboard"
+        }
+      },
+      {
+        "when": "100100599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/os"
+        }
+      },
+      {
+        "when": "100100699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/power-supply"
+        }
+      },
+      {
+        "when": "100100799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/hardware/ram"
+        }
+      },
+      {
+        "when": "100200199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/ok"
+        }
+      },
+      {
+        "when": "100200299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/cancel"
+        }
+      },
+      {
+        "when": "100200399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/info"
+        }
+      },
+      {
+        "when": "100200499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/blank16"
+        }
+      },
+
+      {
         "when": "90100199",
         "model": {
           "type": "minecraft:model",
@@ -475,6 +553,14 @@
         "model": {
           "type": "minecraft:model",
           "model": "custom/power-supply/fsr-1500"
+        }
+      },
+
+      {
+        "when": "90700199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/phone"
         }
       }
     ],

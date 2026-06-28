@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "./phone/main-phone-texture",
-		"1": "./phone/camera-texture",
-		"particle": "./phone/main-phone-texture"
+		"0": "minecraft:item/custom/gui/phone/main-phone-texture",
+		"1": "minecraft:item/custom/gui/phone/camera-texture",
+		"particle": "minecraft:item/custom/gui/phone/main-phone-texture"
 	},
 	"elements": [
 		{
