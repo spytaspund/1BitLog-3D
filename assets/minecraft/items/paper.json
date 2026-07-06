@@ -80,6 +80,13 @@
           "model": "custom/gui/blank16"
         }
       },
+      {
+        "when": "100200599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/terminals-bg"
+        }
+      },
 
       {
         "when": "90100199",
