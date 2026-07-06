@@ -13,7 +13,7 @@
 			"type":"bitmap",
 			"file":"minecraft:gui/coal-generator/generator.png",
 				"ascent":13,
-				"height":165,
+				"height":71,
 				"chars":[
 					"\u0D3F"
 				]
@@ -29,7 +29,25 @@
 		},
 		{
 			"type":"bitmap",
-			"file":"minecraft:gui/phone/phone-home.png",
+			"file":"minecraft:gui/phone/home.png",
+				"ascent":14,
+				"height":74,
+				"chars":[
+					"\u0D41"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:gui/phone/bitnance.png",
+				"ascent":14,
+				"height":74,
+				"chars":[
+					"\u0D42"
+				]
+		},
+		{
+			"type":"bitmap",
+			"file":"minecraft:gui/phone/swap.png",
 				"ascent":14,
 				"height":74,
 				"chars":[
