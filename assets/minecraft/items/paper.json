@@ -87,6 +87,41 @@
           "model": "custom/gui/terminals-bg"
         }
       },
+      {
+        "when": "100200699",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/arrow-left"
+        }
+      },
+      {
+        "when": "100200799",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/arrow-right"
+        }
+      },
+      {
+        "when": "100300199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/btl"
+        }
+      },
+      {
+        "when": "100300299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/thr"
+        }
+      },
+      {
+        "when": "100300399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/currency/spc"
+        }
+      },
 
       {
         "when": "90100199",
