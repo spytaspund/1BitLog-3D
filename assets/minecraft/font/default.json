@@ -67,7 +67,7 @@
 			"type":"bitmap",
 			"file":"minecraft:gui/bns/5-row.png",
 				"ascent":13,
-				"height":125,
+				"height":107,
 				"chars":[
 					"\u0D45"
 				]
@@ -76,7 +76,7 @@
 			"type":"bitmap",
 			"file":"minecraft:gui/bns/4-row.png",
 				"ascent":13,
-				"height":125,
+				"height":89,
 				"chars":[
 					"\u0D46"
 				]
@@ -85,7 +85,7 @@
 			"type":"bitmap",
 			"file":"minecraft:gui/bns/3-row.png",
 				"ascent":13,
-				"height":125,
+				"height":71,
 				"chars":[
 					"\u0D47"
 				]
