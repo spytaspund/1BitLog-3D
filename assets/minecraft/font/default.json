@@ -157,7 +157,7 @@
 			"type":"bitmap",
 			"file":"minecraft:gui/o3/count.png",
 				"ascent":13,
-				"height":89,
+				"height":71,
 				"chars":[
 					"\u0D75"
 				]
