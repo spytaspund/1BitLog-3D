@@ -33,7 +33,7 @@
 				"ascent":14,
 				"height":74,
 				"chars":[
-					"\u0D41"
+					"\u0D50"
 				]
 		},
 		{
@@ -42,7 +42,7 @@
 				"ascent":14,
 				"height":74,
 				"chars":[
-					"\u0D42"
+					"\u0D51"
 				]
 		},
 		{
@@ -51,7 +51,7 @@
 				"ascent":14,
 				"height":74,
 				"chars":[
-					"\u0D43"
+					"\u0D52"
 				]
 		},
                 {
@@ -60,7 +60,7 @@
 				"ascent":14,
 				"height":74,
 				"chars":[
-					"\u0D48"
+					"\u0D53"
 				]
 		},
 		{
@@ -69,7 +69,7 @@
 				"ascent":13,
 				"height":125,
 				"chars":[
-					"\u0D44"
+					"\u0D60"
 				]
 		},
 		{
@@ -78,7 +78,7 @@
 				"ascent":13,
 				"height":107,
 				"chars":[
-					"\u0D45"
+					"\u0D61"
 				]
 		},
 		{
@@ -87,7 +87,7 @@
 				"ascent":13,
 				"height":89,
 				"chars":[
-					"\u0D46"
+					"\u0D62"
 				]
 		},
 		{
@@ -96,7 +96,16 @@
 				"ascent":13,
 				"height":71,
 				"chars":[
-					"\u0D47"
+					"\u0D63"
+				]
+		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/bns/confirm.png",
+				"ascent":13,
+				"height":89,
+				"chars":[
+					"\u0D64"
 				]
 		},
                 {
@@ -105,7 +114,7 @@
 				"ascent":13,
 				"height":125,
 				"chars":[
-					"\u0D50"
+					"\u0D70"
 				]
 		},
                 {
@@ -114,7 +123,7 @@
 				"ascent":13,
 				"height":107,
 				"chars":[
-					"\u0D51"
+					"\u0D71"
 				]
 		},
                 {
@@ -123,7 +132,7 @@
 				"ascent":13,
 				"height":89,
 				"chars":[
-					"\u0D52"
+					"\u0D72"
 				]
 		},
                 {
@@ -132,7 +141,7 @@
 				"ascent":13,
 				"height":71,
 				"chars":[
-					"\u0D53"
+					"\u0D73"
 				]
 		},
                 {
@@ -141,7 +150,7 @@
 				"ascent":13,
 				"height":89,
 				"chars":[
-					"\u0D54"
+					"\u0D74"
 				]
 		},
 		{
