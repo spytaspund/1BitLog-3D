@@ -54,6 +54,15 @@
 					"\u0D43"
 				]
 		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/phone/gosuslugi.png",
+				"ascent":14,
+				"height":74,
+				"chars":[
+					"\u0D48"
+				]
+		},
 		{
 			"type":"bitmap",
 			"file":"minecraft:gui/bns/6-row.png",

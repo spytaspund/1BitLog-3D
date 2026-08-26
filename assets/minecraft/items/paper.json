@@ -122,6 +122,41 @@
           "model": "custom/currency/spc"
         }
       },
+      {
+        "when": "100400199",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/top"
+        }
+      },
+      {
+        "when": "100400299",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-1"
+        }
+      },
+      {
+        "when": "100400399",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-2"
+        }
+      },
+      {
+        "when": "100400499",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-3"
+        }
+      },
+      {
+        "when": "100400599",
+        "model": {
+          "type": "minecraft:model",
+          "model": "custom/gui/license/bottom-4"
+        }
+      },
 
       {
         "when": "90100199",
