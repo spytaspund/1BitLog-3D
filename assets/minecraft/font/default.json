@@ -99,6 +99,51 @@
 					"\u0D47"
 				]
 		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/6-row.png",
+				"ascent":13,
+				"height":125,
+				"chars":[
+					"\u0D50"
+				]
+		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/5-row.png",
+				"ascent":13,
+				"height":107,
+				"chars":[
+					"\u0D51"
+				]
+		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/4-row.png",
+				"ascent":13,
+				"height":89,
+				"chars":[
+					"\u0D52"
+				]
+		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/3-row.png",
+				"ascent":13,
+				"height":71,
+				"chars":[
+					"\u0D53"
+				]
+		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/confirm.png",
+				"ascent":13,
+				"height":89,
+				"chars":[
+					"\u0D54"
+				]
+		},
 		{
     			"type": "space",
     			"advances": {
