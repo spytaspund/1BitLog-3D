@@ -153,6 +153,15 @@
 					"\u0D74"
 				]
 		},
+                {
+			"type":"bitmap",
+			"file":"minecraft:gui/o3/count.png",
+				"ascent":13,
+				"height":89,
+				"chars":[
+					"\u0D75"
+				]
+		},
 		{
     			"type": "space",
     			"advances": {
